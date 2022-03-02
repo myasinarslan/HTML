@@ -1,0 +1,25 @@
+.center {
+    text-align: center;
+    font-family: Arial;
+  }
+
+  .text-center {
+      text-align: center;
+  }
+
+  .about-us {
+      text-align: left;
+      font-family: Arial;
+  }
+
+  .nav {
+      background-color: #f9aa00;
+      padding: 10px;
+      text-decoration: none;
+      text-align: center;
+      color: white;
+      margin: 5px ;
+      transition: right .5s 
+      border-color .4s ease-out;
+  }
+
